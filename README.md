@@ -1,4 +1,4 @@
-![SadlyThresh](https://github.com/SadlyThresh/DDT_ESP/raw/master/images/top.png)
+![SadlyThresh](https://raw.githubusercontent.com/SadlyThresh/DDT_ESP/main/top.png)
 # Información
 Bienvenido al proyecto al español del mod Doki Doki Tutorial!, para Doki Doki Literature Club. 
 # ¿Cómo instalo la traducción? 
