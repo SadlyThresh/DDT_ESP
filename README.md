@@ -15,9 +15,6 @@ Bienvenido al proyecto al español del mod Doki Doki Tutorial!, para Doki Doki L
 
 ![Capture2](https://github.com/SadlyThresh/DDBS_ESP/raw/master/images/Screenshot(2).jpg)
 
-# Tengo un error de traducción, ¿Cómo lo reporto? 
-Haz click en este [link](https://github.com/SadlyThresh/DDBS_ESP/blob/master/Bug.md) y sigue las instrucciones.
-
 # Aviso Legal
 
 Este parche al español y su respectivo mod, no está afiliado a Team Salvato ni a ninguna entidad asociada a ellos. Este es un parche gratuito, por lo que puede ser distribuido libremente, siempre y cuando se cumplan las siguientes condiciones: 
