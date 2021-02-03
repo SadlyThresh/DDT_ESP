@@ -37,6 +37,6 @@ Este parche al español y su respectivo mod, no está afiliado a Team Salvato ni
 
 # Únete a nuestro Discord
 
-¿Quieres formar parte del servidor en Español de Blue Skies, con gente de ideas afines y tener la oportunidad de conocer más de los traductores? ¡Puedes unirte, sólo haz click en este [link](https://discord.gg/k7t26yW8Bx)!
+¿Quieres formar parte del servidor de Traduction Club!, con gente de ideas afines y tener la oportunidad de conocer más de los traductores? ¡Puedes unirte, sólo haz click en este [link](https://discord.gg/k7t26yW8Bx)!
 
 
